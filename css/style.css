@@ -340,7 +340,6 @@ margin: 16px 16px 8px;
 }
 
 .footer .container {
-  display: flex;
   flex-direction: column;
   align-items: flex-start;
   gap: 16px;
